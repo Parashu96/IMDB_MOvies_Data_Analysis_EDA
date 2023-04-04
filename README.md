@@ -1,4 +1,4 @@
-# IMDB_Movies_Data_Analysis_EDA
+# EDA on IMDB_Movies_Data_Analysis
 Project Description: In this project data has been provided in CSV. Data contains various movies released in different years along with directors, actors, IMDB score, Number of votes from users, gross, Budget etc. Using these details we have to find the following details
 
 1)	Cleaning of the data because in data some values are missing and some unwanted columns and rows are present 
